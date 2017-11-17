@@ -4,6 +4,7 @@
 [![Build Status](https://ci.appveyor.com/api/projects/status/vuhlhg80tj3e2a0l/branch/master?svg=true)](https://ci.appveyor.com/project/VSCode/vscode)
 [![Coverage Status](https://img.shields.io/coveralls/Microsoft/vscode/master.svg)](https://coveralls.io/github/Microsoft/vscode?branch=master)
 [![Gitter](https://img.shields.io/badge/chat-on%20gitter-blue.svg)](https://gitter.im/Microsoft/vscode)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fvscode.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fvscode?ref=badge_shield)
 
 [VS Code](https://code.visualstudio.com) is a new type of tool that combines the simplicity of
 a code editor with what developers need for their core edit-build-debug cycle. Code
@@ -52,3 +53,6 @@ For a complete list, please see the [Related Projects](https://github.com/Micros
 Copyright (c) Microsoft Corporation. All rights reserved.
 
 Licensed under the [MIT](LICENSE.txt) License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fvscode.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fvscode?ref=badge_large)
